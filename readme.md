@@ -1,7 +1,7 @@
-# Analizador de Ventas de Tienda
+# Analizador de Ventas de Tienda [Español / English (down below)]
 
-## Descripción del Proyecto [Español / English (down below)]
-Este proyecto es un **Analizador de Ventas de una Tienda** desarrollado en Python. Utiliza técnicas de ciencia de datos para analizar y visualizar información relevante sobre las ventas registradas en dos archivos CSV. El análisis incluye limpieza de datos, agrupaciones, y respuestas a preguntas clave como el producto más vendido y el mes con mayores ventas.
+## Descripción del Proyecto 
+**Analizador de Ventas de una Tienda** desarrollado en Python. Utiliza técnicas de ciencia de datos para analizar y visualizar información relevante sobre las ventas registradas en dos archivos CSV. El análisis incluye limpieza de datos, agrupaciones, y respuestas a preguntas clave como el producto más vendido y el mes con mayores ventas.
 
 ### Tecnologías Usadas
 - **Python**: Lenguaje principal para el análisis de datos.
